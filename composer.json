@@ -1,5 +1,5 @@
 {
-    "name": "guava/calendar",
+    "name": "lorenzovimini/guava-calendar",
     "description": "Adds support for vkurko/calendar to Filament PHP.",
     "keywords": [
         "Guava",
